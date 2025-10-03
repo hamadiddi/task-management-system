@@ -1,6 +1,5 @@
 package com.hamadiddi.task_management_system.service;
 
-
 import com.hamadiddi.task_management_system.entity.User;
 import com.hamadiddi.task_management_system.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
