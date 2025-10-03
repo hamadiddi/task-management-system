@@ -2,6 +2,9 @@ package com.hamadiddi.task_management_system.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.hamadiddi.task_management_system.dto.LoginRequest;
+import com.hamadiddi.task_management_system.dto.RegisterRequest;
 import com.hamadiddi.task_management_system.entity.User;
 import com.hamadiddi.task_management_system.service.AuthService;
 
